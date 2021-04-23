@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="436px" height="411px" viewBox="0 0 436 411" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-Copy" transform="translate(-297.000000, -305.000000)">
+            <g id="Group-2" transform="translate(305.000000, 308.000000)">
+                <g id="Group" transform="translate(207.500000, 176.000000) rotate(-10.000000) translate(-207.500000, -176.000000) translate(23.000000, 30.000000)">
+                    <circle id="Oval" fill="#000000" cx="186.928877" cy="146" r="146"></circle>
+                    <path d="M6.17887739,217.75 C83.5848508,205.266454 153.804351,184.224109 216.837377,154.622964 C279.870403,125.021819 330.31757,89.3974979 368.178877,47.75" id="Path" stroke="#FFFFFF" stroke-width="27" stroke-linecap="round"></path>
+                    <path d="M33.4288774,168 C21.7622107,172.333333 12.7622107,177 6.42887739,182 C-3.07112261,189.5 -3.07112261,208 13.4288774,212 C29.9288774,216 114.428877,201.5 216.837377,154.622964 C319.245876,107.745928 358.428877,64.5 358.428877,50.5 C358.428877,36.5 347.428877,32.5 338.428877,32.5 C332.428877,32.5 320.095544,35.3333333 301.428877,41" id="animate" stroke="#020202" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+                <text id="Planetary" font-family="AirbnbCerealApp-Medium, Airbnb Cereal App" font-size="43" font-weight="400" letter-spacing="1.43333333" fill="#3F3D3D">
+                    <tspan x="105" y="395">Planetary</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

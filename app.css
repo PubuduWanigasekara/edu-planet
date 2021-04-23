@@ -1,0 +1,87 @@
+
+#progress {
+    height: 100vh;
+    width: 100vw;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    z-index: 999;
+    transform:translateX(-50%);
+    left:50%;
+    position: absolute;
+  }
+
+  #logo-splash {
+    width: 150px;
+  }
+
+  #logo_base {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    float: left;
+    z-index: 99;
+    width: 200px;
+  }
+
+  #logo {
+    width: 200px;
+  }
+
+  #menu_base {
+    width: 450px;
+    height: 80px;
+    background: green;
+    position: absolute;
+    left: 50%;
+    bottom: 5%;
+    transform: translateX(-50%);
+    border-radius: 50px;
+    background: rgba(255, 255, 255, 0.3);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(9px);
+    -webkit-backdrop-filter: blur(9px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    z-index: 99;
+  }
+
+  .planet_item {
+    width: 100px;
+    transition: 0.5s;
+    cursor: pointer;
+  }
+  .mars {
+    width: 78px;
+  }
+
+  .satern {
+    width: 120px;
+  }
+  .earth {
+    width: 80px;
+  }
+
+  .planet_item:hover {
+    transform: scale(1.2);
+    transition: 0.5s;
+  }
+
+  @media only screen and (max-width:900px){
+    #menu_base{
+      width:80%;
+      transform-origin: center center;
+      transform: translateX(-50%);
+      left:50%;
+    }
+    .planet_item {
+      width: 50px;
+      transition: 0.5s;
+      cursor: pointer;
+    }
+  }
